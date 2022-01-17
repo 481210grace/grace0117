@@ -1,0 +1,69 @@
+﻿<html>
+<head>
+<title>網頁架構</title>
+</head>
+<body>
+
+</div>
+<h3>磚頭廚房首頁</h3>
+</div>
+
+<a href="2nd.html">普羅旺斯雞腿左馬鈴薯泥</a>
+<a href="3nd.html">蜜烤豬肋</a>
+<a href="4nd.html">果香櫻桃鴨</a>
+<a href="5nd.html">心得感想</a>
+
+<table border="1">
+<tr>
+<th>圖片</th>
+<th>標題</th>
+<th>說明</th>
+</tr>
+
+<tr>
+<td><img src=".\001.jpg" width="400" height="300" align="left"></td>
+<td><h3>★全文分享★  高雄磚頭廚房●普羅旺斯雞腿佐馬鈴薯泥</h3></td>
+<td>充滿義式香味。<br>
+經由先煎後烤的方式，呈現外酥內嫩多汁，搭配酸黃瓜一點也不油膩。<br>
+來自磚頭廚房<p></td>
+</div>
+</tr>
+
+<tr>
+<td><img src=".\002.jpg" width="400" height="300" align="left"></td>
+<td><h3>★全文分享★  高雄磚頭廚房●蜜烤豬肋</h3></td>
+<td>精選不含萊克多巴胺的豬肋經過義式香料去醃滷，並經過烤箱炙燒後所引發的香氣，軟香入口。<br><br><br>
+來自磚頭廚房<p></td>
+</div>
+</tr>
+
+<tr>
+<td><img src=".\003.jpg" width="400" height="300" align="left"></td>
+<td><h3>★全文分享★  高雄磚頭廚房●鳳香櫻桃鴨</h3></td>
+<td>結合鳳梨的果香，果酸讓櫻桃鴨既爽口又留香。<br<br><br>
+來自磚頭廚房<p></td>
+<div>
+</tr>
+
+<td><img src=".\004.jpg" width="400" height="300" align="left"></td>
+<td><h3>★全文分享★  高雄磚頭廚房●心得感言</h3></td>
+<td>很難想像，離開四十年學校生涯的我，<br>
+面對已脫節的電腦課程，除了不知所措更加忐忑不安。<br>
+逐步摸索，雖困難但期望未來能做出屬於自己店的網頁設計去做網路行銷。
+<br><br>
+來自磚頭廚房<p></td>
+</div>
+</tr>
+
+</table>
+<audio src=".\111mP3" autoplay controls></audio>
+
+
+
+
+
+
+
+
+
+
